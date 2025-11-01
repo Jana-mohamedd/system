@@ -1,4 +1,3 @@
-malak
 import {
   Dialog,
   DialogContent,
